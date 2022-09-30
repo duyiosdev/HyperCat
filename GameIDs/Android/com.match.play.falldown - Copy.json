@@ -1,0 +1,12 @@
+{
+  "packageName": "com.hypercat.prototype",
+  "interId": "Inter",
+  "rewardId": "Reward",
+  "bannerId": "Banner",
+  "admobId": "AdmobId",
+  "aoaIds": [
+    "AOA1",
+    "AOA2",
+    "AOA3"
+  ]
+}
