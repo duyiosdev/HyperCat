@@ -1,12 +1,12 @@
 {
-  "packageName": "com.match.play.falldown",
-  "interId": "bcf4929ce9f7f590",
-  "rewardId": "59628a6d04e10410",
-  "bannerId": "53c16c2e722bfe09",
-  "admobId": "ca-app-pub-6336405384015455~5730610651",
+  "packageName": "com.hypercat.prototype",
+  "interId": "Inter",
+  "rewardId": "Reward",
+  "bannerId": "Banner",
+  "admobId": "AdmobId",
   "aoaIds": [
-    "ca-app-pub-6336405384015455/2721303930",
-    "ca-app-pub-6336405384015455/3842813914",
-    "ca-app-pub-6336405384015455/4964323899"
+    "AOA1",
+    "AOA2",
+    "AOA3"
   ]
 }
