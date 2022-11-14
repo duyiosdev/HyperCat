@@ -4,6 +4,7 @@
   "rewardId": "Reward",
   "bannerId": "Banner",
   "admobId": "AdmobId",
+  "aoaId": "Aoa",
   "aoaIds": [
     "AOA1",
     "AOA2",
