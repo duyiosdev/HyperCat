@@ -4,5 +4,10 @@
     "rewardId": "",
     "bannerId": "",
     "aoaId": "",
-    "admobId": ""
+    "admobId": "",
+    "aoaIds": [
+        "",
+        "",
+        ""
+    ]
 }
