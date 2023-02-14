@@ -1,8 +1,14 @@
 {
     "packageName": "com.hypercat.miner",
+    "ironSourceAppKey": "189e9b80d",
     "interId": "97189ec665b6027a",
     "rewardId": "c40fd0fe56491433",
     "bannerId": "8a95016d2d9c23d0",
     "aoaId": "ec45c57e2aaff5aa",
-    "admobId": "ca-app-pub-6336405384015455~8293063650"
+    "admobId": "ca-app-pub-6336405384015455~8293063650",
+    "aoaIds": [
+        "ca-app-pub-6336405384015455/2008659582",
+        "ca-app-pub-6336405384015455/4115948175",
+        "ca-app-pub-6336405384015455/7426290187"
+    ]
 }

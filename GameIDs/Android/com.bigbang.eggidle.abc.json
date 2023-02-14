@@ -1,8 +1,14 @@
 {
     "packageName": "com.bigbang.eggidle.abc",
+    "ironSourceAppKey": "1780bfc0d",
     "interId": "79f64aacb79442f4",
     "rewardId": "b0fc24c1d6ad7faa",
     "bannerId": "c1e27fa5c94fa3b6",
     "aoaId": "b4836a7e955e6250",
-    "admobId": "ca-app-pub-6336405384015455~9923230749"
+    "admobId": "ca-app-pub-6336405384015455~9923230749",
+    "aoaIds": [
+        "ca-app-pub-6336405384015455/3314002390",
+        "ca-app-pub-6336405384015455/8657828413",
+        "ca-app-pub-6336405384015455/3842268396"
+    ]
 }

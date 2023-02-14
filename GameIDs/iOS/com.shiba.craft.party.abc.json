@@ -1,13 +1,14 @@
 {
   "packageName": "com.shiba.craft.party.abc",
+  "ironSourceAppKey": "189e944fd",
   "interId": "05c64756350fc5bc",
   "rewardId": "24dbbd51ceb58861",
   "bannerId": "923e5320845cbcc9",
   "aoaId": "173b2b5db398b0d7",
   "admobId": "ca-app-pub-6336405384015455~5964499930",
   "aoaIds": [
-    "ca-app-pub-6336405384015455/7352112533",
-    "ca-app-pub-6336405384015455/9407430238",
-    "ca-app-pub-6336405384015455/3412867521"
+    "ca-app-pub-6336405384015455/3158089726",
+    "ca-app-pub-6336405384015455/8354576086",
+    "ca-app-pub-6336405384015455/7617313132"
   ]
 }
