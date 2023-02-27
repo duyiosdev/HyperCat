@@ -1,10 +1,10 @@
-﻿{
-  "packageName": "com.phantom.rampage.jun",
-  "ironSourceAppKey": "18d2208ad",
-  "admobId": "ca-app-pub-6336405384015455~2054870973",
-  "aoaIds": [
-    "ca-app-pub-6336405384015455/3234707813",
-    "ca-app-pub-6336405384015455/5669299462",
-    "ca-app-pub-6336405384015455/2715833065"
-  ]
+{
+    "packageName": "com.phantom.rampage.jun",
+    "ironSourceAppKey": "18d2208ad",
+    "admobId": "ca-app-pub-6336405384015455~2054870973",
+    "aoaIds": [
+        "ca-app-pub-6336405384015455/3234707813",
+        "ca-app-pub-6336405384015455/5669299462",
+        "ca-app-pub-6336405384015455/2715833065"
+    ]
 }
