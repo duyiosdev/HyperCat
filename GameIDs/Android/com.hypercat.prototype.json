@@ -1,13 +1,6 @@
 {
-  "packageName": "com.hypercat.prototype",
-  "interId": "Inter",
-  "rewardId": "Reward",
-  "bannerId": "Banner",
-  "admobId": "AdmobId",
-  "aoaId": "Aoa",
-  "aoaIds": [
-    "AOA1",
-    "AOA2",
-    "AOA3"
-  ]
+    "packageName": "com.hypercat.prototype",
+    "ironSourceAppKey": "193397205",
+    "admobId": "ca-app-pub-6336405384015455~7025221501",
+    "aoaId": "ca-app-pub-3940256099942544/3419835294"
 }
